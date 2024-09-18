@@ -41,8 +41,11 @@ This project is a simple rule engine that allows users to upload dependency file
    ```
 
 7. **Postman Collection**
-   To interact with the API, download the Postman collection from the link below:
-   [Download Postman Collection](https://api.postman.com/collections/21993237-36ae0264-c42e-4e72-8e35-192b3e0ac67b?access_key=PMAT-01J82FB6Z2RJ6WF2RD08PG38MW)
+   - [See The APi Documentation of Rule Engine](https://documenter.getpostman.com/view/21993237/2sAXqqe45S)
+   - To interact with the API, download the Postman collection from the link below:
+   [Download Postman Collection of Rule Engine](https://api.postman.com/collections/21993237-36ae0264-c42e-4e72-8e35-192b3e0ac67b?access_key=PMAT-01J82FB6Z2RJ6WF2RD08PG38MW)
+   - [See The APi Documentation of Debricked](https://documenter.getpostman.com/view/21993237/2sAXqqe49r)
+   - [Download Postman Collection of Debricked](https://api.postman.com/collections/21993237-b90ce9ce-fb58-41f0-8922-459ee9d4a9d6?access_key=PMAT-01J82GH5ZFK1VP9S3TBGAMYKCK)
 
 ## Sample API Request
 
